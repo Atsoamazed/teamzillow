@@ -1,4 +1,15 @@
 {
+  "success": true,
+  "status": 200,
+  "review_count": 21,
+  "average_rating": null,
+  "last_crawl": "2018-10-20",
+  "crawl_status": "complete",
+  "percentage_complete": 100,
+  "reviews": [
+
+
+{
       "id": 3716028,
       "name": "zuser20170725102904560",
       "date": "2018-09-11",
@@ -166,4 +177,6 @@
       "verified_order": false,
       "reviewer_title": null,
       "language_code": "en"
-    }
+        }
+    ]
+}
